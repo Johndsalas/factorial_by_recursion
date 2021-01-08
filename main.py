@@ -6,8 +6,7 @@ def get_factorial(number):
     '''
     Gets the factorial of a number using recursion
     '''
-
-
+    
     # base case if number is zero return one
     if number == 0:
 
